@@ -3810,7 +3810,7 @@ div[class^=tutorialContainer]:hover div[class^=pill] .item__58105,
 .closeButton_c2b141 {
     border-color: transparent !important;
     background: var(--Primary);
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 .closeButton_c2b141>svg>path {
