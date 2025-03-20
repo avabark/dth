@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://goldenlys.github.io/WizardUI/fa/css/all.min.css');
 
 @font-face {
@@ -6125,7 +6125,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 }
 
 .roundedBanner_c3e427 {
-    border-radius: 0px;
+    border-radius: 15px;
 }
 
 .avatarPositionPremiumBanner_f89da9 {
@@ -6137,7 +6137,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
     position: absolute;
     top: 10px;
     right: 45px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .wrapper__44b0c>svg>foreignObject,
@@ -6161,7 +6161,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 
 .notice__6e2b9 {
     background-color: var(--Primary);
-    border-radius: 0px;
+    border-radius: 15px;
 }
 
 .container__0be77 {
@@ -6212,7 +6212,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
     min-width: unset;
     margin: 0px 0px 0px;
     padding: 5px 10px;
-    border-radius: 5px;
+    border-radius: 15px;
     border-color: transparent;
     color: var(--Text);
     font-size: 15px;
@@ -6241,12 +6241,12 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 .postEnrollmentBackground_c3427e {
     background-color: var(--darkgrey);
     border-top: none;
-    border-radius: 0px;
+    border-radius: 15px;
 }
 
 .contentWrapperAccepted__0d616 {
     background-color: var(--darkgrey);
-    border-radius: 5px 5px 0 0;
+    border-radius: 15px 15px 0 0;
 }
 
 .role_dfa8b6>:first-child {
@@ -6255,7 +6255,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 
 .roleRemoveButton_dfa8b6 {
     position: initial;
-    border-radius: 0px;
+    border-radius: 15px;
     padding: 0;
     margin: 0;
     display: flex;
@@ -6288,7 +6288,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
     height: 100%;
     background: inherit;
     opacity: 0.2;
-    border-radius: 5px;
+    border-radius: 15px;
     z-index: -1;
 }
 
@@ -6297,7 +6297,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 }
 
 .wrapperAudio_cf09d8.newMosaicStyle_cf09d8 {
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 0px;
 }
 
@@ -6312,7 +6312,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 
 .audioControls_cf09d8 {
     background-color: var(--bg-chat-elements);
-    border-radius: 0px 0px var(--Rounding) var(--Rounding);
+    border-radius: 15px 15px var(--Rounding) var(--Rounding);
 }
 
 .custom-profile-theme .button__7d7f7,
@@ -6378,7 +6378,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
     color: var(--Text);
     width: auto;
     margin: -24px auto 5px;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 0px 5px;
     height: 24px;
 }
@@ -6654,7 +6654,7 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 /*Search Apps & Commands*/
 .containerBorderRadius_cb32c7,
 .size24__183c2 .moreUsers__183c2 {
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 .container__19cf2,
@@ -6667,22 +6667,22 @@ path[d="M4.16667 8.33333V5.83333H5.83333V8.33333H7.91667V5H9.16667L5 1.25L0.8333
 }
 
 .rowContainer_cb32c7:first-child {
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
 
 .rowContainer_cb32c7:last-child {
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
 
 .popoverReactionHoverBar_f84418 {
-    border-radius: 5px;
+    border-radius: 50px;
     background-color: var(--bg-ui);
 }
 
 .card__73069 {
-    border-radius: 5px;
+    border-radius: 50px;
     border: none;
     background-color: var(--bg-ui);
 }
@@ -6696,12 +6696,12 @@ svg>foreignObject[mask="url(#svg-mask-squircle)"] {
     background: var(--darkgrey5);
     border: 1px solid transparent;
     padding: 2px 5px;
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 .bd-addon-store-card-badge {
     background: var(--ui-error);
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 #app-mount .guilds_c48ade .listItem__650eb .pill_e5445c>span[style*="height: 8px;"] {
@@ -6711,11 +6711,11 @@ svg>foreignObject[mask="url(#svg-mask-squircle)"] {
 .buttonSection__1405b {
     background-color: var(--darkgrey);
     border: none;
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 .centerButton_f1ceac {
-    border-radius: 5px;
+    border-radius: 50px;
 }
 
 .status_f910d0 {
